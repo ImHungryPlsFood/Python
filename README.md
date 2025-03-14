@@ -1,4 +1,4 @@
 # Python
 대구과학고등학교 1학년 정보수업
-
-배고프다
+for i in range(5):
+  print('배고프다')
